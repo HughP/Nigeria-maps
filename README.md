@@ -1,11 +1,12 @@
 # Nigeria-maps
 _This repo contains maps, tools, programs, and data for creating maps of various kinds for research interests in Nigeria._
 
-The goals of this project are four outputs:
+The goals of this project are five outputs:
 1. Printable map of Jos for ELM House based on OSM Data and favorite places in Jos.
 2. Digital Cartographic expression of Linguistic Features across ut-ma'in
 3. Printable map of the ut-ma'in area.
 4. Digital Cartographic expression of various sociological data across the Nigeria wide scope.
+5. Usable OSM data for Nigera on Garmin Devices.
 
 ## Tools
 ### Windows only
